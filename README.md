@@ -1,4 +1,4 @@
-# call-zaeball
+# call-zaebal
 Короче... Автор Auto Haws (https://vk.com/id517697520).
 Специально для группы Termux-Lab(https://vk.com/termuxlab)
 Данная версия - Тестовая, по этому многое может не работать))
