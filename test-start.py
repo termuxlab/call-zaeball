@@ -4,6 +4,7 @@ print("""
                          | [~]CALL-PRANK[~]  |
                          +-------------------+
                           Auto Haws/Termux-Lab
+                              Test V.0.1
 """)
 print('')
 num_phone = input('[*]phone: ')
