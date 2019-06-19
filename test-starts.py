@@ -15,7 +15,7 @@ print('''
 [3] ~ WTF?               //no work
 [4] ~ GOLD GOLD GOLD     //no work
 ''')
-call = input('[*]Prank: ')
+call = int(input('[*]Prank: '))
 urls = [
 '',
 'https://titan-gel-official.ru/send.php',
