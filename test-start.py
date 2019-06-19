@@ -41,7 +41,7 @@ urls_call = len(urls)
 start_call = 0
 yn = input("[!*]Want to continue? [y/n]: ")
 if(yn == 'y'):
-    if(call > urls_call):
+    if(call >= urls_call):
         print('''
 +----------------+
 [!]Select a number from the list!
