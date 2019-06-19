@@ -7,7 +7,7 @@ print("""
 """)
 print('')
 num_phone = input('[*]phone: ')
-name = raw_input("[*]name: ")
+name = input("[*]name: ")
 print('''
                   |  [!]Select prank  |')
 [1] ~ Titan gel order?
@@ -39,7 +39,7 @@ post_phone = [
 ]
 urls_call = len(urls)
 start_call = 0
-yn = raw_input("[!*]Want to continue? [y/n]: ")
+yn = input("[!*]Want to continue? [y/n]: ")
 if(yn == 'y'):
     if(call > urls_call):
         print('''
